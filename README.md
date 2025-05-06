@@ -7,7 +7,7 @@
 ---
 
 ## 🎥 Dashboard Preview (Animated)
-![Dashboard Demo](dashboard_preview.gif)  
+![Dashboard Demo](https://raw.githubusercontent.com/GAURIPATIL-2004/Project1_HR_data/main/dashboard_preview.gif)
 *An animated walkthrough of the HR Analytics Dashboard*  
 > _Tip: Upload a `.gif` file to your repo and link it here!_
 
