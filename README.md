@@ -1,20 +1,3 @@
-# Project1_HR_data
-Project1 : HR Data Analytics Dashboard
-
-
-
-1. **GIF animations** – Add a short animated GIF (e.g., screen recording of your Power BI dashboard in action).
-2. **Badges** – Show project status, tools used, or technologies with professional-looking badges.
-3. **Custom Styling** – Use emojis, markdown tables, and bold/italic fonts for polished formatting.
-4. **Shields.io Badges** – Add badges like: ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?logo=powerbi)
-
----
-
-### 🔁 Updated `README.md` Example with Badges and GIF Placeholder
-
-You’ll need to create or upload your own GIF for animations.
-
-````markdown
 # 📊 HR Analytics Dashboard – Employee Attrition Analysis
 
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?logo=powerbi)
@@ -75,22 +58,4 @@ You’ll need to create or upload your own GIF for animations.
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/GAURIPATIL-2004/Project1_HR-data.git
-````
-
-2. Open `.pbix` file in Power BI
-3. Explore or export the report
-
----
-
-## 🧩 Use Cases
-
-* HR insights and workforce planning
-* Strategic attrition reduction
-* Business intelligence for leadership
-
-
-
-
----
-
+   git clone https://github.com/GAURIPATIL-2004/Project1_HR_data.git
