@@ -137,9 +137,3 @@ This dashboard uncovers the **hidden patterns and warning signs** behind attriti
 🔗 [LinkedIn](https://linkedin.com/in/gauripatil)
 
 
----
-
-> 📝 *This dashboard is built on a sample dataset. For real-world use, data validation is essential.*
-
-```
-
