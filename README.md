@@ -10,7 +10,7 @@
 
 ## 👀 First Look – Animated Dashboard Preview
 
-![Dashboard Demo](https://raw.githubusercontent.com/GAURIPATIL-2004/Project1_HR_data/main/dashboard_preview.gif)  
+![Dashboard Demo](https://raw.githubusercontent.com/GAURIPATIL-2004/Project1_HR_data/main/dashboard_preview.gif) 
 📌 *Here’s a sneak peek into the fully interactive Power BI dashboard. See it come to life!*
 
 ---
